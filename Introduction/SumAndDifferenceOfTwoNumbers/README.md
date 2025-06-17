@@ -2,7 +2,7 @@
 
 **Subdomain:** Introduction  
 **Difficulty:** Easy  
-**Link:** ["Hello World!" in C](https://www.hackerrank.com/challenges/sum-numbers-c/problem?isFullScreen=true)  
+**Link:** [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem?isFullScreen=true)  
 
 ---
 
